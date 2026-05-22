@@ -1,0 +1,27 @@
+### Synthesis output
+![Synthesis](images/synthesis/design_prep.png)
+![Synthesis](images/synthesis/synthesis.png)
+
+### Floorplanning output
+![Floorplan](images/floorplan/floorplan.png)
+![Floorplan](images/floorplan/floorplan_buffer.png)
+
+### Placement
+![Placement](images/placement/floorplan_ in_magic.png)
+![Placement](images/placement/Placement.png)
+
+### Clock Time Synthesis
+![CTS](images/cts/condition_1.png)
+![CTS](images/cts/condition_2.png)
+![CTS](images/cts/condition_3.png)
+![CTS](images/cts/cts.png)
+
+### DRC
+![DRC](images/drc/rules.png)
+![DRC](images/drc/violated.png)
+![DRC](images/drc/drc.png)
+
+### Static Timing Analysis
+![STA](images/sta/STA(MET)-1.png)
+![STA](images/sta/STA(MET)-2.png)
+
