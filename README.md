@@ -260,6 +260,7 @@ Floorplanning is one of the most important stages in the ASIC physical design fl
 - Overall chip manufacturability
 
 A well-optimized floorplan improves design efficiency, while a poor floorplan can lead to timing violations, congestion, and routing failures.
+<img width="1920" height="923" alt="Screenshot from 2026-05-22 12-26-48" src="https://github.com/user-attachments/assets/3d79dfa4-6683-4057-a140-c4011a32bccd" />
 
 ---
 
